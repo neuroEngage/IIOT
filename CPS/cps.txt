@@ -1,0 +1,10 @@
+Circuit banao,
+Arduino plug in karo,
+Terminal mein permission do: sudo chmod a+rw /dev/ttyACM0 or /dev/ttyUSB0 jo bhi port hai, IDE mein dikh jayega,
+Password daalo: root
+Code upload karo
+
+Python file download karo
+Desktop pe save karo
+File mein Port change karo: /dev/ttyACM0 OR /dev/ttyUSB0 
+Terminal mein yeh commands do: cd Desktop, then python3 <filename>.py
